@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MindScape AR</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>MindScape AR</h1>
+        <p>Explore your thoughts in augmented reality!</p>
+        <nav>
+            <ul>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#privacy">Privacy Policy</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="features">
+            <h2>Features</h2>
+            <div class="feature-list">
+                <div class="feature-item">
+                    <h3>🌐 AR Interface</h3>
+                    <p>Create mind maps in a 3D space.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>🤖 AI Suggestions</h3>
+                    <p>Get smart suggestions for connecting ideas.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>🗣️ Voice Commands</h3>
+                    <p>Add nodes effortlessly with voice commands.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>✋ Gesture Control</h3>
+                    <p>Move and edit nodes using simple gestures.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>📤 Export Options</h3>
+                    <p>Export your mind maps in multiple formats.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="privacy">
+            <h2>Privacy Policy</h2>
+            <p>Your privacy is important to us. This policy outlines our practices regarding the collection and use of your information.</p>
+            <h3>Information We Collect</h3>
+            <p>We may collect personal and non-personal data, including your name, email, and usage statistics.</p>
+            <h3>How We Use Your Information</h3>
+            <p>Your information helps us operate and improve the app, understand user behavior, and communicate with you.</p>
+            <h3>Data Security</h3>
+            <p>We implement reasonable security measures to protect your information but cannot guarantee its absolute security.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>If you have any questions or feedback, please contact us at: <a href="mailto:support@mindscapear.com">support@mindscapear.com</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 MindScape AR. All rights reserved.</p>
+    </footer>
+</body>
+</html>
